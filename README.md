@@ -29,7 +29,7 @@ In the case of a Game Over, again, 'q' to quit or 'n' so start a new game.
 1. Download/obtain the project however you want.
 2. make
 
-Then again, I think I left the binary in the prject folder as well.
+Then again, I think I left the binary in the project folder as well.
 You could just run that and you wouldn't need to compile.
 
 I'll be asking a few friends to see if I can get a compiled version for Windows and OSX.
