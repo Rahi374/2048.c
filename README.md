@@ -44,7 +44,7 @@ As usual, I prefer my one-file programs, so as you can see I completely skipped 
 I also tried out autoscan, autoheader, and autoconf, but that cluttered up my project directory and I really didn't feel like cleaning it up.
 
 Also, I didn't actually realize that people had already remade 2048 for the terminal/console.
-Anyway I never looked at any other 2048.c during development of this one. (In fact, I didn't find out about the existence of other 2048.c until after I finished the first version.
+Anyway I never looked at any other 2048.c during development of this one. (In fact, I didn't find out about the existence of other 2048.c until after I finished the first version)
 
 Enjoy!
 
