@@ -56,4 +56,6 @@ Enjoy!
 
 ### License
 
-MIT License
+The MIT License (MIT)
+
+Copyright (c) 2014 Paul Elder
