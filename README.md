@@ -35,6 +35,17 @@ You could just run that and you wouldn't need to compile.
 I'll be asking a few friends to see if I can get a compiled version for Windows and OSX.
 My cross-compiler doesn't want to work.
 
+Detailed installation instructions (for n00bs) follow:
+
+First download (presumaby as a zip)
+```shell
+cd Downloads
+unzip 2048.c-master.zip
+cd 2048.c-master
+gcc -o 2048 2048.c -lncurses || make
+./2048
+```
+
 ### Comments
 
 Well, my first legitimate git project? And it's in C. That's not my first language.
